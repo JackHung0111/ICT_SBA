@@ -1,0 +1,31 @@
+Introduction
+
+        ======================================
+      |@ **********   ##########  &&&&&&&&&   @|      
+    |@       **           ##      &&      &&    @|    
+  |@         **           ##      &&      &&      @|  
+|@           **           ##      &&      &&        @|
+|@           **           ##      &&&&&&&&&         @|
+|@     **    **     ##    ##      &&&&&             @|
+  |@   ***   **     ###   ##      &&  &&          @|  
+    |@  **  **       ##  ##       &&    &&&     @|    
+      |@ ****         ####        &&     &&&  @|      
+        ======================================
+
+JackHung's Janpanese Restaurant -JJR
+
+JackHung's Janpanese Restaurant is a new japnese restaurant in Hong Kong.
+It mainly provides sushis to customers.
+The prices of the food are not expensive.
+It is a good choice for us to have lunch or dinner in JJR!
+
+Location :      Shop 101, The Cyberport Arcade, 100 Cyberport Road, Pok Fu Lam, HK Island
+Opening hours : 09:30 - 22:30
+Transport :     MTR Cyberport Exit A
+                Bus 30X, 42C, 73, 107, 170, 970X, 971
+Telephone no. : 27118175 
+
+JJR Food Ordering System
+The food ordering system is made by Y.P.H. IT Company Itd.
+All copyright reserved.
+In the events of any disputes, JJR and Y.P.H IT Company reserve the right of final decision.
